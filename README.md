@@ -19,8 +19,8 @@ Sala: 368, CT - Práticas: 334, CT
  - Paradigma orientado a objetos / Java
     - [Introdução à programação orientada a objetos](slides/slides-introducao-oo-2016a.pdf)
     - [Introdução à linguagem Java](slides/slides-introducao-java-2016a.pdf)
-    - [Métodos e atributos de classe] (slides/slides-java-static-2016a.pdf)
-    - [Herança e polimorfismo] (slides/slides-java-heranca-polimorfismo-2016a.pdf)
+    - [Métodos e atributos de classe](slides/slides-java-static-2016a.pdf)
+    - [Herança e polimorfismo](slides/slides-java-heranca-polimorfismo-2016a.pdf)
     - [Arrays e pacotes](slides/slides-java-arrays-2016a.pdf) (não vistos em aula)
     - [Classes abstratas, interfaces, tipos genéricos, coleções](slides/slides-java-abstract-2016a.pdf)
     - [Interfaces gráficas e MVC](slides/slides-java-mvc-2016a.pdf)
